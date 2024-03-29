@@ -484,3 +484,38 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+
+
+
+
+nav {
+    background-color: Gray;
+    width: 1200px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    
+}
+
+nav a {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+ 
+a {
+    color:#151515
+}
+
+content {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container {
+    width: 1440px;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
